@@ -1,0 +1,12 @@
+C:\Users\Kasia_Giga_Koks\OneDrive\Desktop\programowanie-wizualne\zad2\mojabiblioteka\bin\Debug\net8.0\mojabiblioteka.deps.json
+C:\Users\Kasia_Giga_Koks\OneDrive\Desktop\programowanie-wizualne\zad2\mojabiblioteka\bin\Debug\net8.0\mojabiblioteka.dll
+C:\Users\Kasia_Giga_Koks\OneDrive\Desktop\programowanie-wizualne\zad2\mojabiblioteka\bin\Debug\net8.0\mojabiblioteka.pdb
+C:\Users\Kasia_Giga_Koks\OneDrive\Desktop\programowanie-wizualne\zad2\mojabiblioteka\obj\Debug\net8.0\mojabiblioteka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kasia_Giga_Koks\OneDrive\Desktop\programowanie-wizualne\zad2\mojabiblioteka\obj\Debug\net8.0\mojabiblioteka.AssemblyInfoInputs.cache
+C:\Users\Kasia_Giga_Koks\OneDrive\Desktop\programowanie-wizualne\zad2\mojabiblioteka\obj\Debug\net8.0\mojabiblioteka.AssemblyInfo.cs
+C:\Users\Kasia_Giga_Koks\OneDrive\Desktop\programowanie-wizualne\zad2\mojabiblioteka\obj\Debug\net8.0\mojabiblioteka.csproj.CoreCompileInputs.cache
+C:\Users\Kasia_Giga_Koks\OneDrive\Desktop\programowanie-wizualne\zad2\mojabiblioteka\obj\Debug\net8.0\mojabiblioteka.sourcelink.json
+C:\Users\Kasia_Giga_Koks\OneDrive\Desktop\programowanie-wizualne\zad2\mojabiblioteka\obj\Debug\net8.0\mojabiblioteka.dll
+C:\Users\Kasia_Giga_Koks\OneDrive\Desktop\programowanie-wizualne\zad2\mojabiblioteka\obj\Debug\net8.0\refint\mojabiblioteka.dll
+C:\Users\Kasia_Giga_Koks\OneDrive\Desktop\programowanie-wizualne\zad2\mojabiblioteka\obj\Debug\net8.0\mojabiblioteka.pdb
+C:\Users\Kasia_Giga_Koks\OneDrive\Desktop\programowanie-wizualne\zad2\mojabiblioteka\obj\Debug\net8.0\ref\mojabiblioteka.dll
